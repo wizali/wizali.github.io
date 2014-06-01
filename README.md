@@ -1,4 +1,1 @@
-wizali.github.io
-================
-
-wizali's blog
+try to write blog on github from now on
